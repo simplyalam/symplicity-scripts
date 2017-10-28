@@ -1,0 +1,37 @@
+<option value="[school_faculty_id]" fldtype="general">Faculty ID</option>
+<option value="[salutation]" fldtype="general">Salutation</option>
+<option value="[fullname]" fldtype="general">Name</option>
+<option value="[lname]" fldtype="general">Last Name</option>
+<option value="[fname]" fldtype="general">First Name</option>
+<option value="[mi]" fldtype="general">MI</option>
+<option value="[email]" fldtype="email">Email</option>
+<option value="[unverified_email]" fldtype="email">Unverified Email</option>
+<option value="[phone]" fldtype="general">Direct Phone</option>
+<option value="[department_phone]" fldtype="general">Department Phone</option>
+<option value="[fax]" fldtype="general">Fax</option>
+<option value="[faculty_type]" fldtype="picklist_multi">Faculty Type</option>
+<option value="[title]" fldtype="general">Position Title</option>
+<option value="[department]" fldtype="picklist">Department</option>
+<option value="[school]" fldtype="picklist">College/School</option>
+<option value="[campus]" fldtype="picklist">Campus</option>
+<option value="[major]" fldtype="picklist_multi">Major</option>
+<option value="[hiredate]" fldtype="date">Start Date with College/University</option>
+<option value="[link]" fldtype="url">Link</option>
+<option value="[pronet_limit]" fldtype="yesno">Pronet Limit</option>
+<option value="[account_disabled]" fldtype="yesno">Account Disabled</option>
+<option value="[rights]" fldtype="picklist_multi">Rights</option>
+<option value="[logins]" fldtype="number">Logins</option>
+<option value="[lastlogin]" fldtype="datetime">Last Login</option>
+<option value="[faculty_approved]" fldtype="yesno">Approved</option>
+<option value="[verify_resent]" fldtype="datetime">Verification Email Resent Time</option>
+<option value="[pin]" fldtype="general">Pin</option>
+<option value="[simplify_interface]" fldtype="yesno">Accessible Mode</option>
+<option value="[privacy]" fldtype="yesno">Block User Messages</option>
+<option value="[receive_email]" fldtype="yesno">Receive Email Notification</option>
+<option value="[policy_affirmed]" fldtype="yesno">Policy Affirmation</option>
+<option value="[address][street]" fldtype="general" reltype="local">Address: Street Address</option>
+<option value="[address][city]" fldtype="general" reltype="local">Address: City</option>
+<option value="[address][state]" fldtype="picklist" reltype="local">Address: State</option>
+<option value="[address][zip]" fldtype="general" reltype="local">Address: Zip+4</option>
+<option value="[address][country]" fldtype="picklist" reltype="local">Address: Country</option>
+<option value="[_flag__]" fldtype>Flag</option>
